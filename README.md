@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Créditos
 - Datos geográficos: Gobierno de la Ciudad de México
-- Simulación y visualización: [Tu nombre o equipo]
+- Simulación y visualización: Jesus Reyes Gonzalez y Julio Cesar Olivares Aguilar
 
 ## Licencia
 Este proyecto es de uso académico y educativo.
